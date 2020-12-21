@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/sKorpion19091/sKorpion19091/master/wave.gif" width="30px">
+The name is Kyle and I have been inputting text into a computer so that it can do cool stuff since I was 12. I am currently a computer science student at the University of Pretoria in South Africa. Programming to me is a way of staying sane in a world which I find to be crazy and weird. 
+
+### Some Number Stuff
 ![My Stats](https://github-readme-stats.vercel.app/api?username=sKorpion19091&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sKorpion19091)
 
 <!--
 **sKorpion19091/sKorpion19091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

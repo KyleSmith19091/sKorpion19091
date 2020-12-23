@@ -19,6 +19,4 @@ programming related problems and developing smaller programs ranging from bash c
 ![Python](https://img.shields.io/badge/🔧-Python-yellow)
 
 ## Some Number Stuff 🧮
-![My Stats](https://github-readme-stats.vercel.app/api?username=sKorpion19091&show_icons=true&theme=nord)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sKorpion19091&show_icons=true&theme=nord)
+![My Stats](https://github-readme-stats.vercel.app/api?username=sKorpion19091&show_icons=true&theme=nord)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sKorpion19091&show_icons=true&theme=nord)

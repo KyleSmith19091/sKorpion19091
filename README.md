@@ -28,8 +28,6 @@ programming related problems and developing smaller programs ranging from bash c
 ![HTML](https://img.shields.io/badge/🔧-HTML-orange)
 ![CSS](https://img.shields.io/badge/🔧-CSS-purple)
 
-![React](https://img.shields.io/badge/🔧-violet)
-
 ### Tools 💻
 ![Opencv](https://img.shields.io/badge/💻-Opencv-cyan)
 ![Vim](https://img.shields.io/badge/💻-Vim-green)

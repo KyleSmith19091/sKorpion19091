@@ -1,4 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ```javascript
 const Coder = {
  name : "Kyle",
@@ -27,9 +28,12 @@ programming related problems and developing smaller programs ranging from bash c
 ![HTML](https://img.shields.io/badge/🔧-HTML-orange)
 ![CSS](https://img.shields.io/badge/🔧-CSS-purple)
 
+![React](https://img.shields.io/badge/🔧-violet)
+
 ### Tools 💻
 ![Opencv](https://img.shields.io/badge/💻-Opencv-cyan)
 ![Vim](https://img.shields.io/badge/💻-Vim-green)
+![Intellij](https://img.shields.io/badge/💻-Intellij-orange)
 
 ## Some Number Stuff 🧮
 ![My Stats](https://github-readme-stats.vercel.app/api?username=sKorpion19091&show_icons=true&theme=nord) 

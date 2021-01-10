@@ -43,9 +43,9 @@ programming related problems and developing smaller programs ranging from bash c
 ### Tools 💻
 <div align="center">
 
-![Opencv](https://img.shields.io/badge/üíª-Opencv-cyan)
-![Vim](https://img.shields.io/badge/üíª-Vim-green)
-![Intellij](https://img.shields.io/badge/üíª-Intellij-orange)
+![Opencv](https://img.shields.io/badge/🔧-Opencv-cyan)
+![Vim](https://img.shields.io/badge/🔧-Vim-green)
+![Intellij](https://img.shields.io/badge/🔧-Intellij-orange)
 
 </div>
 

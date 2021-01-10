@@ -1,4 +1,3 @@
-![Header](https://github.com/sKorpion19091/sKorpion19091/raw/main/res/Header.mp4)
 <div align="center">
 <h1>Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1></div>

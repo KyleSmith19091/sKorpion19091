@@ -1,4 +1,7 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align="center">
+<h1>Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1></div>
+
 
 ```javascript
 const Coder = {
@@ -15,25 +18,41 @@ programming related problems and developing smaller programs ranging from bash c
 
 ## Technologies and Tools 
 
-### Comfortable 🔧
-![C++](https://img.shields.io/badge/🔧-C++-blue)
-![Java](https://img.shields.io/badge/🔧-Java-red)
-![Bash](https://img.shields.io/badge/🔧-Bash-black)
+### Comfortable üîß
+<div align="center">
 
-### Exposed 🔧
-![Go](https://img.shields.io/badge/🔧-Go-blue)
-![Python](https://img.shields.io/badge/🔧-Python-yellow)
-![Typescript](https://img.shields.io/badge/🔧-Typescript-lightblue)
-![Javascript](https://img.shields.io/badge/🔧-Javascript-black)
-![HTML](https://img.shields.io/badge/🔧-HTML-orange)
-![CSS](https://img.shields.io/badge/🔧-CSS-purple)
+![C++](https://img.shields.io/badge/üîß-C++-blue)
+![Java](https://img.shields.io/badge/üîß-Java-red)
+![Bash](https://img.shields.io/badge/üîß-Bash-black)
 
-### Tools 💻
-![Opencv](https://img.shields.io/badge/💻-Opencv-cyan)
-![Vim](https://img.shields.io/badge/💻-Vim-green)
-![Intellij](https://img.shields.io/badge/💻-Intellij-orange)
+</div>
 
-## Some Number Stuff 🧮
-![My Stats](https://github-readme-stats.vercel.app/api?username=sKorpion19091&show_icons=true&theme=nord) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sKorpion19091&show_icons=true&theme=nord)
+### Exposed üîß
+<div align="center">
+
+![Go](https://img.shields.io/badge/üîß-Go-blue)
+![Python](https://img.shields.io/badge/üîß-Python-yellow)
+![Typescript](https://img.shields.io/badge/üîß-Typescript-lightblue)
+![Javascript](https://img.shields.io/badge/üîß-Javascript-black)
+![HTML](https://img.shields.io/badge/üîß-HTML-orange)
+![CSS](https://img.shields.io/badge/üîß-CSS-purple)
+
+</div>
+
+### Tools üíª
+<div align="center">
+
+![Opencv](https://img.shields.io/badge/üíª-Opencv-cyan)
+![Vim](https://img.shields.io/badge/üíª-Vim-green)
+![Intellij](https://img.shields.io/badge/üíª-Intellij-orange)
+
+</div>
+
+## Some Number Stuff üßÆ
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sKorpion19091&show_icons=true&theme=nord"> 
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sKorpion19091&show_icons=true&theme=nord">
+</div>

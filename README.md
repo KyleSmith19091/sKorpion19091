@@ -2,8 +2,8 @@
 ```javascript
 const Coder = {
  name : "Kyle",
- hobbies: ["Skateboarding", "Reading", "Gym", "Cycling", "Reading", "Puzzle Solving", "Youtube(watching)"],
- food: ["sushi", "pizza", "sandwich"],
+ hobbies: ["Puzzle Solving", "Reading", "Gym", "Reading", "Youtube(watching)"],
+ food: ["Sushi", "Pizza", "Sandwich"],
  challenge: "Daily Dev: Try to learn something new related to computer science"
 }
 ```
@@ -13,10 +13,25 @@ My programming experience comes from the five years of Robotics Programming for 
 programming related problems and developing smaller programs ranging from bash commands to stock screeners.
 
 ## Technologies and Tools 
+
+### Comfortable 🔧
 ![C++](https://img.shields.io/badge/🔧-C++-blue)
 ![Java](https://img.shields.io/badge/🔧-Java-red)
 ![Bash](https://img.shields.io/badge/🔧-Bash-black)
+
+### Exposed 🔧
+![Go](https://img.shields.io/badge/🔧-Go-blue)
 ![Python](https://img.shields.io/badge/🔧-Python-yellow)
+![Typescript](https://img.shields.io/badge/🔧-Typescript-lightblue)
+![Javascript](https://img.shields.io/badge/🔧-Javascript-black)
+![HTML](https://img.shields.io/badge/🔧-HTML-orange)
+![CSS](https://img.shields.io/badge/🔧-CSS-purple)
+
+### Tools 💻
+![Opencv](https://img.shields.io/badge/💻-Opencv-cyan)
+![Vim](https://img.shields.io/badge/💻-Vim-green)
 
 ## Some Number Stuff 🧮
-![My Stats](https://github-readme-stats.vercel.app/api?username=sKorpion19091&show_icons=true&theme=nord) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sKorpion19091&show_icons=true&theme=nord)
+![My Stats](https://github-readme-stats.vercel.app/api?username=sKorpion19091&show_icons=true&theme=nord) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sKorpion19091&show_icons=true&theme=nord)

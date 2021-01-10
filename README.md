@@ -18,29 +18,29 @@ programming related problems and developing smaller programs ranging from bash c
 
 ## Technologies and Tools 
 
-### Comfortable üîß
+### Comfortable 🔧
 <div align="center">
 
-![C++](https://img.shields.io/badge/üîß-C++-blue)
-![Java](https://img.shields.io/badge/üîß-Java-red)
-![Bash](https://img.shields.io/badge/üîß-Bash-black)
+![C++](https://img.shields.io/badge/🔧-C++-blue)
+![Java](https://img.shields.io/badge/🔧-Java-red)
+![Bash](https://img.shields.io/badge/🔧-Bash-black)
 
 </div>
 
 
-### Exposed üîß
+### Exposed 🔧
 <div align="center">
 
-![Go](https://img.shields.io/badge/üîß-Go-blue)
-![Python](https://img.shields.io/badge/üîß-Python-yellow)
-![Typescript](https://img.shields.io/badge/üîß-Typescript-lightblue)
-![Javascript](https://img.shields.io/badge/üîß-Javascript-black)
-![HTML](https://img.shields.io/badge/üîß-HTML-orange)
-![CSS](https://img.shields.io/badge/üîß-CSS-purple)
+![Go](https://img.shields.io/badge/🔧-Go-blue)
+![Python](https://img.shields.io/badge/🔧-Python-yellow)
+![Typescript](https://img.shields.io/badge/🔧-Typescript-lightblue)
+![Javascript](https://img.shields.io/badge/🔧-Javascript-black)
+![HTML](https://img.shields.io/badge/🔧-HTML-orange)
+![CSS](https://img.shields.io/badge/🔧-CSS-purple)
 
 </div>
 
-### Tools üíª
+### Tools 💻
 <div align="center">
 
 ![Opencv](https://img.shields.io/badge/üíª-Opencv-cyan)
@@ -49,7 +49,7 @@ programming related problems and developing smaller programs ranging from bash c
 
 </div>
 
-## Some Number Stuff üßÆ
+## Some Number Stuff 🧮
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sKorpion19091&show_icons=true&theme=nord"> 
 <br>

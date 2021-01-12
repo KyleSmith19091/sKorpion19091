@@ -56,3 +56,13 @@ programming related problems and developing smaller programs ranging from bash c
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sKorpion19091&show_icons=true&theme=nord">
 </div>
+
+## Find Me On
+<div align="center">
+ <a href="https://skorpion19091.medium.com/">
+  
+![Medium](https://img.shields.io/badge/-Medium-black?logo=medium)
+
+ </a>
+</div>
+

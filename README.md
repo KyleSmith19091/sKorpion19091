@@ -48,6 +48,7 @@ programming related problems and developing smaller programs ranging from bash c
 ![Vim](https://img.shields.io/badge/🔧-Vim-green?style=flat-square)
 ![Intellij](https://img.shields.io/badge/🔧-Intellij-orange?style=flat-square)
 ![React](https://img.shields.io/badge/🔧-React-blue?style=flat-square)
+![MySQL](https://img.shields.io/badge/🔧-MySQL-magenta?style=flat-square)
 
 </div>
 

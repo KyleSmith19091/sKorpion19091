@@ -37,6 +37,7 @@ programming related problems and developing smaller programs ranging from bash c
 ![Javascript](https://img.shields.io/badge/🔧-Javascript-black)
 ![HTML](https://img.shields.io/badge/🔧-HTML-orange)
 ![CSS](https://img.shields.io/badge/🔧-CSS-purple)
+![PHP](https://img.shields.io/badge/🔧-PHP-lime)
 
 </div>
 

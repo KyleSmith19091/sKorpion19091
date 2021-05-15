@@ -6,7 +6,7 @@
 ```javascript
 const Coder = {
  name : "Kyle",
- hobbies: ["Puzzle Solving", "Reading", "Gym", "Reading", "Youtube(watching)"],
+ hobbies: ["Puzzle Solving", "Gym", "Reading", "Youtube(watching)"],
  food: ["Sushi", "Pizza", "Sandwich"],
  challenge: "Daily Dev: Try to learn something new related to computer science"
 }
@@ -37,6 +37,7 @@ programming related problems and developing smaller programs ranging from bash c
 ![Javascript](https://img.shields.io/badge/🔧-Javascript-black)
 ![HTML](https://img.shields.io/badge/🔧-HTML-orange)
 ![CSS](https://img.shields.io/badge/🔧-CSS-purple)
+![PHP](https://img.shields.io/badge/🔧-PHP-lime)
 
 </div>
 

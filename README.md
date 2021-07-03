@@ -55,10 +55,10 @@ programming related problems and developing smaller programs ranging from bash c
 ## Some Number Stuff 🧮
 
 <div align="center">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sKorpion19091&theme=nord&hide_border=true">
+<hr /> 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sKorpion19091&theme=github">
 <hr />
-<br />
-<br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sKorpion19091&show_icons=true&theme=nord">
 </div>
 

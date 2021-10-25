@@ -21,9 +21,12 @@ programming related problems and developing smaller programs ranging from bash c
 ### Comfortable 🔧
 <div align="center">
 
-![C++](https://img.shields.io/badge/🔧-C++-blue)
-![Java](https://img.shields.io/badge/🔧-Java-red)
-![Bash](https://img.shields.io/badge/🔧-Bash-black)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=byte)
+![Javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=css3)
 
 </div>
 
@@ -31,24 +34,21 @@ programming related problems and developing smaller programs ranging from bash c
 ### Exposed 🔧
 <div align="center">
 
-![Go](https://img.shields.io/badge/🔧-Go-blue)
-![Python](https://img.shields.io/badge/🔧-Python-yellow)
-![Typescript](https://img.shields.io/badge/🔧-Typescript-lightblue)
-![Javascript](https://img.shields.io/badge/🔧-Javascript-black)
-![HTML](https://img.shields.io/badge/🔧-HTML-orange)
-![CSS](https://img.shields.io/badge/🔧-CSS-purple)
-![PHP](https://img.shields.io/badge/🔧-PHP-lime)
+![Go](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Typescript](https://img.shields.io/badge/Typescript-lightblue?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-green?style=for-the-badge&logo=php)
 
 </div>
 
 ### Tools 💻
 <div align="center">
 
-![Opencv](https://img.shields.io/badge/🔧-Opencv-cyan?style=flat-square)
-![Vim](https://img.shields.io/badge/🔧-Vim-green?style=flat-square)
-![Intellij](https://img.shields.io/badge/🔧-Intellij-orange?style=flat-square)
-![React](https://img.shields.io/badge/🔧-React-blue?style=flat-square)
-![MySQL](https://img.shields.io/badge/🔧-MySQL-magenta?style=flat-square)
+![Opencv](https://img.shields.io/badge/Opencv-cyan?style=for-the-badge&logo=opencv)
+![Nvim](https://img.shields.io/badge/Vim-green?style=for-the-badge&logo=neovim)
+![Intellij](https://img.shields.io/badge/Intellij-orange?style=for-the-badge&logo=intellijidea)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![MySQL](https://img.shields.io/badge/MySQL-magenta?style=for-the-badge&logo=mysql)
 
 </div>
 
